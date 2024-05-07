@@ -1,0 +1,12 @@
+1，机器调试好以后，先打开雕刻文件看看原点在哪个地方，一般都是在左下角。 附送的两个试机代码原点也是在左下角。
+2，将机器定位到靠工件左下角的地方，然后下刀（下刀时一定要开启主轴），靠近工件以后进给量调小些，慢慢调整使刀尖接触到工件即可。
+3，（重要) 下刀完了以后点击“XY清零”和“Z清零”，然后就可以点击“开始”按钮开始雕刻了。
+
+最好先空跑一遍熟悉一下
+
+
+1, After adjusting the machine, open the engraving file to check where the zero point is, usually at the lower left corner, the same as the 2 test codes.
+2, Locate the machine to the lower left corner of the workpiece first, then lower the cutter and the spindle must be turned on. Slow it down when the cutter is close to the workpiece, gently adjust it to the surface. 
+3, Important! After lowering the cutter, click "XY zero " and "Z zero". Then you can click "start" to engrave. 
+
+Tips: It is better to run the machine without any workpiece first. Test it before you start formal engraving. 
